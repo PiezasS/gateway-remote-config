@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFED01B16",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 41.63596420,
+    "ref_longitude": -0.74785510,
+    "ref_altitude": 197,
+    "contact_email": "sergiofalcon9@gmail.com",
+    "description": "Lora Gateway SFL"
+  }
+}
